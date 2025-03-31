@@ -1,4 +1,4 @@
-# Notes from introductory lecture 1
+# Notes from lecture 1: basic introduction to C++ development
 
 - Check WeBeep and the course repo (forked from the original) for a heck of a lot of contents.
 
@@ -50,7 +50,7 @@ A header file must contain all declarations, including function prototypes, clas
   - Overview of the compilation process and main flags:
 ![img[alt$=">"] {
   float: right;
-}](image.png)
+}](building_process.png)
 
 ## Some development tips
 
